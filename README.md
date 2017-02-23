@@ -10,7 +10,7 @@ Controls
 
 Objective: Prevent the earth from disrupting your assault! Target their lasers with yours!
 
-[1,2,3] to switch bases.
+[1,2,3] to switch bases.  
 [Click] to fire.
 
 --
