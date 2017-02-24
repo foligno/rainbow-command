@@ -3,3 +3,5 @@ bin/
 [Dd]ebug/
 [Rr]elease/
 [Oo]bj/
+*.csproj.user
+*.suo
